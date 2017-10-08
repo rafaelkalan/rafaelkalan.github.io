@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Rafael O. M. Lima
 
-You can use the [editor on GitHub](https://github.com/rafaelkalan/rafaelkalan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Summary
+  Young software developer and Computer Science student. Backend engineering enthusiastic I have worked and studied some of the most powerful languages like C ANSI / C++, PHP, Python, Java, NodeJS, solving data problems using MySQL, MongoDB, ElasticSearch and now I’m experiencing some challenges with the web front-end world working with JavaScript and its framework ecosystem. I am passionate about the Open Source and Free Software community as a whole, and I’m trying to contribute with my time and as well improve my knowledge being a more active member of the local communities in my town. As an IT lover, I spent the most part my free time working in academic, open source and personal projects, like I said before I’m a technology enthusiast so I spend a lot of time looking for opportunities to innovate over the existing markets, motivated by architecture and design challenges, focusing on learning. This way I try to achieve mine and the right company objectives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+### Intern Software Developer at Construct App novembro de 2016  
+-  Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
+- Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. - Maintain and implement new features on Internal tools platform developed in Nodejs, bootstrap, and MongoDB - Documentation of architecture and business processes used by the developers to maintain and develop new valuable features into the product
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Intern Web Developer at Villefort Consulting julho de 2013  
+-  abril de 2014 (10 meses) In this role I was an Intern web developer, responsible to maintain and improve the company products, my main responsibilities were:
+- Maintain and implement new features on a payroll loan developed in Java and SQL Procedure
+- Maintain and implement new features on a management of condominiums platform developed in Java and Bootstrap - Implement integration API's to improve the seller experience in payroll loan platform
 
-```markdown
-Syntax highlighted code block
+### Support Intern at IBM julho de 2011  
+- This was my first IT job, I was an Intern support, my main responsibilities were: 
+- Maintain and manage Unix and Windows servers from Fiat. - Planning and schedule dates for changes on the serves - Documenting all modified changes realized on those serves - Implement bash scripts for small changes  on the serves
 
-# Header 1
-## Header 2
-### Header 3
+## Education 
+- Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
+- Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2012
 
-- Bulleted
-- List
+[Linkedin](https://www.linkedin.com/in/rafael-lima-6348353b/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaelkalan/rafaelkalan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
