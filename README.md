@@ -1,4 +1,6 @@
 # Rafael O. M. Lima
+##### Email: rafaelkalan@gmail.com
+[Linkedin](https://www.linkedin.com/in/rafael-lima-6348353b/) // [GitHub](https://github.com/rafaelkalan)
 
 ## Summary
   Young software developer and Computer Science student. Backend engineering enthusiastic I have worked and studied some of the most powerful languages like C ANSI / C++, PHP, Python, Java, NodeJS, solving data problems using MySQL, MongoDB, ElasticSearch and now I’m experiencing some challenges with the web front-end world working with JavaScript and its framework ecosystem. I am passionate about the Open Source and Free Software community as a whole, and I’m trying to contribute with my time and as well improve my knowledge being a more active member of the local communities in my town. As an IT lover, I spent the most part my free time working in academic, open source and personal projects, like I said before I’m a technology enthusiast so I spend a lot of time looking for opportunities to innovate over the existing markets, motivated by architecture and design challenges, focusing on learning. This way I try to achieve mine and the right company objectives.
@@ -28,5 +30,3 @@ This was my first IT job, I was an Intern support, my main responsibilities were
 ## Education 
 - Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
 - Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2012
-
-[Linkedin](https://www.linkedin.com/in/rafael-lima-6348353b/)
