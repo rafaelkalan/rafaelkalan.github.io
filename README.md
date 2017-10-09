@@ -7,20 +7,20 @@
 
 ## Experience
 
-### Intern Software Developer at Construct App novembro de 2016  
+### Intern Software Developer at Construct App (Nov 2016 -- Actually)  
 Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on Internal tools platform developed in Nodejs, bootstrap, and MongoDB 
 - Documentation of architecture and business processes used by the developers to maintain and develop new valuable features into the product
 
-### Intern Web Developer at Villefort Consulting julho de 2013  
+### Intern Web Developer at Villefort Consulting (Jul 2013 -- Jan 2014) 
 In this role I was an Intern web developer, responsible to maintain and improve the company products, my main responsibilities were:
 - Maintain and implement new features on a payroll loan developed in Java and SQL Procedure
 - Maintain and implement new features on a management of condominiums platform developed in Java and Bootstrap 
 - Implement integration API's to improve the seller experience in payroll loan platform
 
-### Support Intern at IBM julho de 2011  
+### Support Intern at IBM (Jul 2011 -- Jan 2012)  
 This was my first IT job, I was an Intern support, my main responsibilities were: 
 - Maintain and manage Unix and Windows servers from Fiat. 
 - Planning and schedule dates for changes on the serves 
@@ -29,4 +29,4 @@ This was my first IT job, I was an Intern support, my main responsibilities were
 
 ## Education 
 - Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
-- Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2012
+- Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2011
