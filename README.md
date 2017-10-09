@@ -30,5 +30,3 @@ This was my first IT job, I was an Intern support, my main responsibilities were
 - Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2012
 
 [Linkedin](https://www.linkedin.com/in/rafael-lima-6348353b/)
-[teste](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiWqcPhz-LWAhVFE5AKHSTxB6sQjRwIBw&url=http%3A%2F%2Fseeklogo.com%2Fvector-logo%2F259113%2Flinked-in-linkedin&psig=AOvVaw23gdqBhoF4CkbsILwFNDrn&ust=1507606967250610)
-
