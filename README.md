@@ -29,4 +29,4 @@ This was my first IT job, I was an Intern support, my main responsibilities were
 
 ## Education 
 - Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
-- Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 20112
+- Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2012
