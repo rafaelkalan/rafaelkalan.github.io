@@ -7,7 +7,7 @@
 
 ## Experience
 
-### Intern Software Developer at Construct App (Nov 2016 -- Actually)  
+### Intern Software Developer at Construct App (Nov 2016 -- Feb 2018)  
 Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
