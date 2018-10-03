@@ -10,10 +10,10 @@
 ### R&D Intern at Concert Technologies App (Jul 2018 -- Moment)  
 Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
  - Maintain and implement new features on Thingable an IOT software platform.
- - Work on R&D projects aimed at smart grids, battery storage, distributed energy resources (DER) and other disruptive technologies related to electrical generation and distribution
+ - Work on R&D projects aimed at smart grids, battery storage, distributed energy resources (DER) and other disruptive technologies related to electrical generation and distribution.
 
 ### Intern Software Developer at Construct App (Nov 2016 -- Feb 2018)  
-Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
+Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities were:
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on Internal tools platform developed in Nodejs, bootstrap, and MongoDB 
@@ -21,16 +21,16 @@ Present In this role I'm an Intern Software Developer, responsible to maintain a
 
 ### Intern Web Developer at Villefort Consulting (Jul 2013 -- Jan 2014) 
 In this role I was an Intern web developer, responsible to maintain and improve the company products, my main responsibilities were:
-- Maintain and implement new features on a payroll loan developed in Java and SQL Procedure
-- Maintain and implement new features on a management of condominiums platform developed in Java and Bootstrap 
-- Implement integration API's to improve the seller experience in payroll loan platform
+- Maintain and implement new features on a payroll loan developed in Java and SQL Procedure.
+- Maintain and implement new features on a management of condominiums platform developed in Java and Bootstrap.
+- Implement integration API's to improve the seller experience in payroll loan platform.
 
 ### Support Intern at IBM (Jul 2011 -- Jan 2012)  
 This was my first IT job, I was an Intern support, my main responsibilities were: 
 - Maintain and manage Unix and Windows servers from Fiat. 
-- Planning and schedule dates for changes on the serves 
-- Documenting all modified changes realized on those serves 
-- Implement bash scripts for small changes  on the serves
+- Planning and schedule dates for changes on the serves.
+- Documenting all modified changes realized on those serves.
+- Implement bash scripts for small changes  on the serves.
 
 ## Education 
 - Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
