@@ -17,7 +17,7 @@ In this role I'm an Intern Software Developer, responsible to maintain and impro
  - Work on R&D projects aimed at smart grids, battery storage, distributed energy resources (DER) and other disruptive technologies related to electrical generation and distribution.
 
 ### Intern Software Developer at Construct App (Nov 2016 -- Feb 2018)  
-Present In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities were:
+In this role I'm an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities were:
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on a Construction management WebApp developed in Angular for the frontend, NodeJs for backend and MongoDB. 
 - Maintain and implement new features on Internal tools platform developed in Nodejs, bootstrap, and MongoDB 
@@ -34,7 +34,7 @@ This was my first IT job, I was an Intern support, my main responsibilities were
 - Maintain and manage Unix and Windows servers from Fiat. 
 - Planning and schedule dates for changes on the serves.
 - Documenting all modified changes realized on those serves.
-- Implement bash scripts for small changes  on the serves.
+- Implement bash scripts for small changes on the serves.
 
 ## Education 
 - Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
