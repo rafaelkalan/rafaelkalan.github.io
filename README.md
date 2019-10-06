@@ -10,6 +10,9 @@
 
 ### Analyst Software Developer at DTI Digital (Aug 2019 -- Moment)  
 Present In this role I'm an Analyst Software Developer, responsible to maintain and improve the company products.
+ - React
+ - .Net Core
+ - NoSQL
 
 ### R&D Intern at Concert Technologies App (Jul 2018 -- Aug 2019)  
 In this role I was an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
