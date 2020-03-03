@@ -40,5 +40,5 @@ This was my first IT job, I was an Intern support, my main responsibilities were
 - Implement bash scripts for small changes on the serves.
 
 ## Education 
-- Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2018 
+- Pontifícia Universidade Católica de Minas Gerais Bachelor of Applied Science (B.A.Sc.), Compuer Science, 2012 - 2020 
 - Polytechnic School of Minas Gerais Associate of Arts and Sciences (A.A.S.), Information Technology, 2010 - 2012
