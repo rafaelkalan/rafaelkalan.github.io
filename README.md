@@ -9,7 +9,7 @@
 
 
 ### Analyst Software Developer at DTI Digital (Aug 2019 -- Moment)  
-Present In this role I'm an Analyst Software Developer, responsible to maintain and improve the company products and sometimes .
+Present In this role I'm an Analyst Software Developer, responsible to maintain and improve the company products and sometimes filling the role of Team Leader.
  - MicroFrontend (Reac, Angular and other Js frameworks/libs)
  - .Net Core(serverless)
  - NoSQL (Cosmos and Mongo)
