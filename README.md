@@ -18,7 +18,7 @@ Present In this role I'm an Analyst Software Developer, responsible to maintain 
  - Protobuffers
  - Agile Scrum
 
-### R&D Intern at Concert Technologies App (Jul 2018 -- Aug 2019)  
+### R&D Intern at Concert Technologies (Jul 2018 -- Aug 2019)  
 In this role I was an Intern Software Developer, responsible to maintain and improve the company products, my main responsibilities are:
  - Maintain and implement new features on Thingable an IOT software platform.
  - Work on R&D projects aimed at smart grids, battery storage, distributed energy resources (DER) and other disruptive technologies related to electrical generation and distribution.
