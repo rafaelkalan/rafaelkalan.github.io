@@ -7,8 +7,15 @@
 
 ## Experience
 
+### Software Developer at Sensedia (Aug 2020 -- Moment)  
+Sensedia is an API platform that offers professional consulting services in software architecture and backend development, and in this role I'm working as a consultant for a customer in the payment processing market, and my main responsibilities consists in:
 
-### Analyst Software Developer at DTI Digital (Aug 2019 -- Moment)  
+- Analysis, design and development of a scalable, reliable and secure platform to develop payment-processing and banking services including automation, testing and software develivery tools
+- Design and implementation of reference architectures that meets the requirements of the product engineering teams
+- Teach the developers how to use the available reference architectures and platform services
+- Analysis, development and documentation of libraries to access and use the available platform services 
+
+### Analyst Software Developer at DTI Digital (Aug 2019 -- December 2020)  
 Present In this role I'm an Analyst Software Developer, responsible to maintain and improve the company products and sometimes filling the role of Team Leader.
  - MicroFrontend (Reac, Angular and other Js frameworks/libs)
  - .Net Core(serverless)
