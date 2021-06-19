@@ -1,8 +1,7 @@
 # **Tyr, God of Justice**
 
-### The Terrible, the One-armed, Tyr the Terrible, Tyr the One-armed, the Wounded Tyr, the Crippled God, the Blind Man, the Blind Tyr, the Lord of Justice — all these names speak of the nature of the god of justice![Tyr](https://static.wikia.nocookie.net/forgottenrealms/images/2/28/Tyr.jpg/revision/latest?cb=20210429131410) 
-### Tyr is a noble warrior, without a right hand, which he lost because of the brave sacrifice and with a blindfold on his eyes as a sign of blindness. 
-
+## ***The Terrible, The One-armed, The Wounded, The Crippled God, The Blind Man - all these names speak of the nature of Tyr, the god of justice*** - all these names speak of ***TYR*** the nature of the god of justice![Tyr](https://static.wikia.nocookie.net/forgottenrealms/images/2/28/Tyr.jpg/revision/latest?cb=20210429131410) 
+## The missing hand of Tyr show us that sometimes, ***do the right things can cost us great sacrifice***. And he's blindness show us that the justice is blind, and we must follow the justice patch even when we don't fully understand why.
 ___
 
 ## **Tyr Creed**
@@ -14,7 +13,7 @@ ___
 >![praying](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88701139-3008-4672-9f65-98f13d5371e9/d6orcm2-70818d87-47d6-4ff1-b171-39298b86c482.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4NzAxMTM5LTMwMDgtNDY3Mi05ZjY1LTk4ZjEzZDUzNzFlOVwvZDZvcmNtMi03MDgxOGQ4Ny00N2Q2LTRmZjEtYjE3MS0zOTI5OGI4NmM0ODIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c39-lt00KstOkFFejU-2y7BfGcaRIHkjOCWhy0Y5t_A)
 ___
 # **Tyr Sermons**
-## **Sermons one**
+## **Sermon one**
 >  *Tyr is a jealous and avenging God; Tyr is avenging and wrathful; Tyr takes vengeance on his adversaries and keeps wrath for his enemies. Tyr is slow to anger and great in power, and Tyr will by no means clear the guilty. His way is in whirlwind and storm, and the clouds are the dust of his feet.*
 >
 >![Justice](https://i1.wp.com/orbedosdragoes.com/wp-content/uploads/2016/11/timthumb.png?resize=600%2C226)
@@ -53,3 +52,45 @@ ___
 >>
 >> Priests of Tyr wore blue and purple robes, with a white sash and left-handed glove. On their right hands, priests wore black gloves to symbolize the loss of Tyr's hand
 >> Many knightly orders are dedicated to Tyr, for example, the Knights of Holy Justice or the Knights of the Merciful Sword. Such knights - as well as judges and priests, clerics and paladins who worship Tyr - sometimes wear thin bandages of transparent cloth over their eyes to remind others of the blindness of justice.
+
+## Tyr Rite
+>
+>![rite](https://fontmeme.com/temporary/428e2980e1cefdbca873809e73173dcd.png)
+>
+> # Common translation
+> ### Hail to the *One-armed God*!
+> 
+> ### Hail to Him whose name is *Honor*
+>
+> ### And whose Word is iron,
+>
+> ### Who alone never shirks the thankless task
+>
+> ### Whose reason is Lawful Necessity.
+>
+> ### Hail to the Lord of Swords Who gave a weapon-bearing hand
+>
+> ### To see that what must be done was done in truth.
+>
+> ### Hail God of the sunset, last single ray of light
+>
+> ### Lord of loyal morality, whose name none takes in vain.
+>
+> ### Now must I face loss to do what is right,
+>
+> ### O Lord Tyr, and I do not ask for your aid
+>
+> ### To take away that loss, that I might hope for ease of action.
+>
+> ### As you stood forth knowing you must lose to win,
+>
+> ### So I ask only that you keep my back straight,
+>
+> ### My arm strong, my hand from trembling,
+>
+> ### My voice from faltering, my words from vanishing,
+>
+> ### My head up, and my resolve unyielding
+>
+> ### As I reach into the challenging maw of my own future.
+>
