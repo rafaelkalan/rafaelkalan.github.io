@@ -4,7 +4,7 @@
 ## The missing hand of Tyr show us that sometimes, ***do the right things can cost us great sacrifice***. And he's blindness show us that the justice is blind, and we must follow the justice patch even when we don't fully understand why.
 ___
 
-## **Tyr Creed**
+## **Tyr's Creed**
 
 >### *Follow all just laws and work to get unjust laws changed. Work against injustice everywhere, and never refuse to give aid or allow your aid to be less than wholehearted. Defend against injustice as if every wronged being is your beloved. **Be good and fair always**, exposing corruption and remaining steadfast and firm. Where laws fail, law keepers are corrupt, or rulers are cruel, capricious, or unfair, be the wise and even hand of justice. Always consider consequences rather than merely the judgment of the moment. Yet behave without pride or aggression, so secular authorities defer to you rather than feeling defied or disrespected. Guard against the twisting of laws, but show understanding and mercy rather than harsh conformity, for **all laws are imperfect**. Strive ever to make laws better. Never prejudge.*
 >
@@ -12,7 +12,7 @@ ___
 >
 >![praying](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88701139-3008-4672-9f65-98f13d5371e9/d6orcm2-70818d87-47d6-4ff1-b171-39298b86c482.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4NzAxMTM5LTMwMDgtNDY3Mi05ZjY1LTk4ZjEzZDUzNzFlOVwvZDZvcmNtMi03MDgxOGQ4Ny00N2Q2LTRmZjEtYjE3MS0zOTI5OGI4NmM0ODIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c39-lt00KstOkFFejU-2y7BfGcaRIHkjOCWhy0Y5t_A)
 ___
-# **Tyr Sermons**
+# **Tyr's Sermons**
 ## **Sermon one**
 >  *Tyr is a jealous and avenging God; Tyr is avenging and wrathful; Tyr takes vengeance on his adversaries and keeps wrath for his enemies. Tyr is slow to anger and great in power, and Tyr will by no means clear the guilty. His way is in whirlwind and storm, and the clouds are the dust of his feet.*
 >
@@ -26,7 +26,7 @@ ___
 >![holySymbol](https://www.thievesguild.cc/5e/images/gods/symbols/tyr2.jpg)
 ___
 
-## **Tyr Tenets**
+## **Tyr's Tenets**
 > *Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.*
 >
 >*Ordinary foes might win my mercy, but my sworn enemies do not.*
@@ -53,7 +53,7 @@ ___
 >> Priests of Tyr wore blue and purple robes, with a white sash and left-handed glove. On their right hands, priests wore black gloves to symbolize the loss of Tyr's hand
 >> Many knightly orders are dedicated to Tyr, for example, the Knights of Holy Justice or the Knights of the Merciful Sword. Such knights - as well as judges and priests, clerics and paladins who worship Tyr - sometimes wear thin bandages of transparent cloth over their eyes to remind others of the blindness of justice.
 
-## Tyr Rite
+## Tyr's Rite
 >
 >![rite](https://fontmeme.com/temporary/428e2980e1cefdbca873809e73173dcd.png)
 >
