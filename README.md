@@ -6,8 +6,14 @@
   Software developer and Computer Science student. Backend engineering enthusiastic I have worked and studied some of the most powerful languages like C ANSI / C++, PHP, Python, Java, NodeJS, solving data problems using MySQL, MongoDB, ElasticSearch and now I’m experiencing some challenges with the web front-end world working with JavaScript and its framework ecosystem. I am passionate about the Open Source and Free Software community as a whole, and I’m trying to contribute with my time and as well improve my knowledge being a more active member of the local communities in my town. As an IT lover, I spent the most part my free time working in academic, open source and personal projects, like I said before I’m a technology enthusiast so I spend a lot of time looking for opportunities to innovate over the existing markets, motivated by architecture and design challenges, focusing on learning. This way I try to achieve mine and the right company objectives.
 
 ## Experience
+### Software Developer specialist at PagoNxt (Dez 2021 -- Moment)  
 
-### Software Developer at Sensedia (Aug 2020 -- Moment)  
+- Analysis, design and development of a scalable, reliable and secure platform to develop payment-processing and banking services including automation, testing and software develivery tools
+- Design and implementation of reference architectures that meets the requirements of the product engineering teams
+- Teach the developers how to use the available reference architectures and platform services
+- Analysis, development and documentation of libraries to access and use the available platform services 
+
+### Software Developer at Sensedia (Aug 2020 -- Dez 2021)  
 Sensedia is an API platform that offers professional consulting services in software architecture and backend development, and in this role I'm working as a consultant for a customer in the payment processing market, and my main responsibilities consists in:
 
 - Analysis, design and development of a scalable, reliable and secure platform to develop payment-processing and banking services including automation, testing and software develivery tools
